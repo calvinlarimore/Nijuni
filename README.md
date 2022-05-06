@@ -14,3 +14,6 @@ I know, I know, that's the whole point of the project. But as it stand right now
 
 ## What is "External Software"?
 Everything, execept what's mentioned in the disclaimer
+
+## Development
+I'm doing this in my free time, which is not a ton. I also only work on this when I hyperfocus on it, so short bursts randomly
